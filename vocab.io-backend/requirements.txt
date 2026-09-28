@@ -11,3 +11,5 @@ gunicorn
 google-genai
 python-dotenv
 yake
+groq
+argostranslate
